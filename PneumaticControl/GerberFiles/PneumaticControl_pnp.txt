@@ -1,0 +1,72 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=PneumaticControl
+*Date=12:34:43
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;48.1419;-56.2921;0;Bottom;Via2
+2;;;43.0941;-31.5854;0;Bottom;Via19
+3;;;49.3226;-34.2263;-90;Bottom;TXT2
+4;;;22.1067;-12.5242;0;Bottom;Via28
+5;;300 mil [THT];35.4832;-36.0013;180;Bottom;D3
+6;;THT;44.8558;-47.7133;0;Bottom;J2
+7;;300 mil [THT];34.8228;-8.72171;90;Bottom;D5
+8;;;49.1129;-20.8319;-90;Bottom;TXT2
+9;;;35.4563;-22.6856;0;Bottom;Via27
+10;;;44.3562;-56.2921;0;Bottom;Via1
+11;;;49.346;-47.6421;-90;Bottom;TXT2
+12;;;42.43;-29.6594;0;Bottom;Via16
+13;;;47.523;-2.34618;0;Bottom;Hole4
+14;0.47mF;100 mil [THT, electrolytic];19.5828;-11.2363;0;Bottom;C3-0.47m
+15;;THT;44.8558;-9.61337;0;Bottom;J5
+16;;THT;44.8558;-34.3783;0;Bottom;J3
+17;47µF;100 mil [THT, electrolytic];11.3278;-11.2363;0;Bottom;C2-47mu
+18;;;47.523;-67.7513;0;Bottom;Hole2
+19;;;15.1378;-37.6467;90;Bottom;Feather ESP32
+20;;;41.8323;-36.633;0;Bottom;Via10
+21;;;48.1419;-43.009;0;Bottom;Via4
+22;;;31.6063;-7.37561;0;Bottom;Via29
+23;1k;THT;34.8228;-39.1763;180;Bottom;R3
+24;;;25.2946;-54.4325;0;Bottom;Via38
+25;;TO220 [THT];34.8228;-57.8453;0;Bottom;TIP120
+26;0.22mF;100 mil [THT, electrolytic];4.97784;-11.2363;0;Bottom;C1-220mu
+27;;THT;44.8558;-21.0434;0;Bottom;J4
+28;;;2.43797;-2.34618;0;Bottom;Hole3
+29;;TO220 [THT];34.8228;-31.1753;0;Bottom;TIP120
+30;;;39.9061;-14.3838;0;Bottom;Via18
+31;0.1mF;100 mil [THT, electrolytic];25.9328;-11.2363;0;Bottom;C4-0.1m
+32;;TO220 [THT];34.8228;-44.5103;0;Bottom;TIP120
+33;5V;TO220 [THT];10.6928;-3.87031;0;Bottom;LM7809
+34;;;28.4826;-4.88613;0;Bottom;Via26
+35;;;41.8323;-33.4451;0;Bottom;Via20
+36;;300 mil [THT];34.8482;-62.6713;180;Bottom;D1
+37;;;25.3443;-50.5919;0;Bottom;Via33
+38;;300 mil [THT];35.4832;-22.6663;180;Bottom;D4
+39;;;49.1629;-9.2759;-90;Bottom;TXT1
+40;;;24.0328;-4.88613;0;Bottom;Via25
+41;;;27.8487;-56.2848;0;Bottom;Via37
+42;;;49.3818;-60.9657;-90;Bottom;TXT2
+43;;;36.7181;-33.4451;0;Bottom;Via12
+44;;;24.01;-36.6312;0;Bottom;Via35
+45;;300 mil [THT];34.8482;-49.3363;180;Bottom;D2
+46;;;31.6706;-33.4451;0;Bottom;Via13
+47;1k;THT;34.8228;-65.8463;180;Bottom;R1
+48;;;27.1771;-67.1127;0;Bottom;Via36
+49;;;39.2421;-44.2709;0;Bottom;Via7
+50;;;2.43797;-67.7513;0;Bottom;Hole1
+51;;TO220 [THT];35.4578;-17.8403;0;Bottom;TIP120
+52;;THT;44.8558;-61.0483;0;Bottom;J1
+53;1k;THT;34.8228;-52.5113;180;Bottom;R2
+54;3.3V;TO220 [THT];24.0278;-3.87031;0;Bottom;UA78M33C
+55;;;43.6919;-43.009;0;Bottom;Via3
+56;;;8.20156;-5.52762;0;Bottom;Via30
+57;1k;THT;34.8228;-25.8413;0;Bottom;R4
